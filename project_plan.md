@@ -22,4 +22,4 @@ Design and implement an end-to-end Machine Learning pipeline using Python.
 7. Model Deployment
 
 ## Expected Outcome
-Build a complete Machine Learning solution from data collection to model evaluation.
+Build a complete Machine Learning solution from data collection to model evaluation. 
